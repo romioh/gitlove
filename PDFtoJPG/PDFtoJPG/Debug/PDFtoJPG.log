@@ -1,0 +1,17 @@
+﻿빌드 시작: 2017-03-14 오후 3:42:14
+     1>2 노드의 "D:\01_work\storageDB\source\PDFtoJPG\PDFtoJPG\PDFtoJPG.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\PDFtoJPG.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt PDFtoJPGDlg.cpp
+         PDFtoJPGDlg.cpp
+     1>d:\01_work\storagedb\source\pdftojpg\pdftojpg\pdftojpgdlg.cpp(238): warning C4244: '초기화 중' : 'ULONGLONG'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\01_work\storageDB\source\PDFtoJPG\Debug\PDFtoJPG.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\01_work\storageDB\source\PDFtoJPG\Debug\PDFtoJPG.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\01_work\storageDB\source\PDFtoJPG\Debug\PDFtoJPG.lib" /MACHINE:X86 Debug\PDFtoJPG.res
+         Debug\PDFtoJPG.obj
+         Debug\PDFtoJPGDlg.obj
+         Debug\stdafx.obj
+         PDFtoJPG.vcxproj -> D:\01_work\storageDB\source\PDFtoJPG\Debug\PDFtoJPG.exe
+     1>"D:\01_work\storageDB\source\PDFtoJPG\PDFtoJPG\PDFtoJPG.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.13
